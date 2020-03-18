@@ -1,7 +1,7 @@
 ---
 title: Hello JS
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "I am showing how live editing works"
 ---
 
 This is my first post on my new fake blog! How exciting!
